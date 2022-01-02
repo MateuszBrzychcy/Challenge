@@ -1,0 +1,2 @@
+System ma za zadanie zapisywać do pliku wprowadzone dane dotyczące epidemii takie jak ilość zakażen i ilość zgonów.
+Po wprowadzeniu danych oblicza i wyświetla statystyki takie jak największa ilość i średnia zakażeń/zgonów.
